@@ -1,1 +1,2 @@
 # Practica-4
+Script que controla la instalación, eliminación y ver el estado de los paquetes segundo el usuario. Si el usuario no es root no tiene permiso si lo es, realiza las acciones sobre los paquetes. Los paquetes y las acciones se encuentran en un documento a parte de donde se recogen para tratarlos.
